@@ -43,21 +43,21 @@ Number of attributes: 14
 
 Attribute Information:
 
-age                
-workclass          
-fnlwgt             
-education          
-educational-num    
-marital-status     
-occupation         
-relationship       
-race               
-gender             
-capital-gain       
-capital-loss       
-hours-per-week     
-native-country     
-income             
+1. age                
+2. workclass          
+3. fnlwgt             
+4. education          
+5. educational-num    
+6. marital-status     
+7. occupation         
+8. relationship       
+9. race               
+10. gender             
+11. capital-gain       
+12. capital-loss       
+13. hours-per-week     
+14. native-country     
+15. income             
 
 
 
