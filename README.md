@@ -2,7 +2,7 @@
 
 ---
 
-### Abstract
+### Abstract:
 
 
 The goal of this project is to build a classification machine learning model to predict the salary of an employee. An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc.
