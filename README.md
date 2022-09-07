@@ -93,7 +93,7 @@ The following tools were used in this project:
 
 ---
 
-### Communications:
+### Communications
 
 
 The findings and slide deck accompanying this project's presentation are accessible in this GitHub repository.
