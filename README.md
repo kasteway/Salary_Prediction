@@ -23,7 +23,7 @@ An app was built using Streamlit and deployed on Heroku. The app allows for a us
 ### Design:
 
 
- A pipeline was built to collect the data and perform machine learning to predict if the transaction was fraud and deployed an app to show the results. 
+ A pipeline was built to collect the data and perform machine learning to predict if the transaction was fraud and deployed an app to show the results. .
 
 ![alt text](salaryEDA.png)
 
